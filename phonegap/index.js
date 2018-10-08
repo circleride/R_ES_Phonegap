@@ -16,7 +16,7 @@ window.url_server_firebase = url_server_firebase;
 }
 
 var url_server = localStorage.getItem('url_server');
-var url_server_def = "https://epsa-rs.alerta.xyz";
+var url_server_def = "https://app-rs.alerta.xyz";
 if (!url_server) {
 window.url_server = url_server_def;
 localStorage.setItem('url_server', url_server_def);
