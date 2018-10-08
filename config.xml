@@ -2,7 +2,7 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="xyz.alerta.epsars" version="0.0.2">
 <name>Alerta Anónima</name>
-<description>xyz.alerta.anon</description>
+<description>xyz.alerta.epsars</description>
 <author href="http://epsa-rs.alerta.xyz" email="soporte@alerta.xyz">Reporte de Servicios</author>
 
 <preference name="phonegap-version" value="cli-7.1.0" />
