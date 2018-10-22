@@ -40,7 +40,7 @@
 <plugin name="cordova-plugin-camera" source="npm" />
 <plugin name="cordova-plugin-media-capture" source="npm" />
 <plugin name="cordova-plugin-media" source="npm" />
-<!--  spec="~4.3.3"  spec="~4.0.0" -->
+<!--  spec="~4.3.3" spec="~4.0.0" -->
 <!--<plugin name="cordova-plugin-file" source="npm" />-->
 <!-- <plugin name="cordova-plugin-file-transfer" source="npm" spec="1.6.3" /> -->
 
