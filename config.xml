@@ -29,8 +29,8 @@
 <preference name="MediaPlaybackRequiresUserAction" value="false"/>
 
 <plugin name="cordova-plugin-battery-status" />
-<!--<plugin name="cordova-plugin-camera" spec="2.4.1" />
-<plugin name="cordova-plugin-media-capture" spec="2.0.0" />-->
+<!-- <plugin name="cordova-plugin-camera" spec="2.4.1" />
+<plugin name="cordova-plugin-media-capture" spec="2.0.0" /> -->
 <plugin name="cordova-plugin-console" />
 <plugin name="cordova-plugin-contacts" />
 <plugin name="cordova-plugin-device" />
